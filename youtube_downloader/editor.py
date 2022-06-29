@@ -7,7 +7,6 @@ class Editor(object):
         audio_clip = mpe.AudioFileClip(paths[1])
         final_clip = video_clip.set_audio(audio_clip)
         final_clip.write_videofile(save_path+file_name)
-        
 
 def main() -> None:
     print("Running editor.py directly.")
