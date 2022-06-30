@@ -8,4 +8,4 @@ Using Pytube and automatic merging video and audio from the YouTube API.
 - [X] Download only video or audio.
 - [X] Download video with sound.
 - [X] Download the video thumbnail.
-- [ ] Add CLI scripts.
+- [X] Add CLI scripts.

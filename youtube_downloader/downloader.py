@@ -1,4 +1,3 @@
-from turtle import right
 from pytube import YouTube
 import requests
 import re
