@@ -5,7 +5,7 @@ import random
 
 desktop = os.path.join(os.path.join(os.environ['USERPROFILE']), 'Desktop')
 random_n = random.randint(100, 999)
-file_name = "yt"+str(random_n)+".webm"
+file_name = "yt"+str(random_n)
 
 parser = argparse.ArgumentParser(description="Download youtube videos.")
 parser.add_argument('-l', '--link', metavar="", type=str, required=True, help="Youtube video URL")
