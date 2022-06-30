@@ -3,8 +3,8 @@
 
 Using Pytube and automatic merging video and audio from the YouTube API.
 
-Video and sound files will be saved as .webm files.  
-Image files will be saved as .png files.
+Video and sound files will be saved as `.webm` files.  
+Image files will be saved as `.png` files.
 
 ## How to run
 **Download video with sound**  
